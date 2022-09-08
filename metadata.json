@@ -1,0 +1,7 @@
+{
+    "uuid": "wireguard@localhost",
+    "name": "Wireguard Monitor",
+    "description": "Control all wireguard connections via NetworkManager",
+    "author": "avalon",
+    "last-edited": 1662606491
+}
